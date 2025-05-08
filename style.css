@@ -102,7 +102,7 @@ a:active {
 
 .chartresources{
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   align-self: center;
   text-align: center;
   font-size: large;
